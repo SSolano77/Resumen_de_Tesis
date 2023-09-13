@@ -21,8 +21,8 @@ de un enlace público, ciertos grupos específicos de la población costarricens
 <a href="https://www.belen.go.cr/web/guest/comite-municipal-de-emergencia"> Comite de Emergencias de la Municipalidad de Belen</a>, puedan tener un monitoreo de cuales zonas son más vulnerables y cuales ocupan de un auxilio de diferente índole, o bien que instituciones del gobierno sepan dónde se podría correr un riesgo y sean capaces de tomar una decisión antes de que ocurra una catástrofe.
 
  <div align="center">
-  <h5><p style="text-align: center;">
-<img src="1.jpeg" width="300"></h5>
+  <p style="text-align: center;">
+<img src="1.jpeg" width="300">
 </div> 
 
 <div align="center">
@@ -84,8 +84,8 @@ diferencia que se lleguen a encontrar.
 Se espera que las diferentes instituciones del pais ya sea nacionales o privadas puedan participar en la recoleccion de informacion, y que pueda utilizarse como insumo en las tomas de desiciones para mejorar la calidad de vida de las personas.
 
  <div align="center">
-  <h1><p style="text-align: center;">
-<img src="2.jpeg" width="450"></h1>
+  <h5><p style="text-align: center;">
+<img src="2.jpeg" width="450"></h5>
 </div> 
 
  <div align="center">
