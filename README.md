@@ -1,8 +1,14 @@
+ <div align="center">
+  <h1>Resumen General del Proyecto de Graduacion</h1>
+</div>
 
-# <p style="text-align: center;"> Resumen General del Proyecto de Graduacion  <br> 
-## <p style="text-align: center;"> **"Elaboración de una herramienta de software para la identificación de zonas de riesgo a inundaciones mediante el aporte de datos recopilados por voluntarios e instituciones públicas"**
+ <div align="center">
+   <h2> "Elaboración de una herramienta de software para la identificación de zonas de riesgo a inundaciones mediante el aporte de datos recopilados por voluntarios e instituciones públicas" </h2> 
+</div> 
+ 
 
-#### <p style="text-align: center;">*Programacion en aplicaciones SIG. Tarea 1*<br>*Elaborado por Samanta Solano H.*
+
+####  *Programacion en aplicaciones SIG. Tarea 1*<br>*Elaborado por Samanta Solano H.*
 
 ## **Introducción**
 <p style="text-align: justify;">
@@ -14,10 +20,14 @@ Se propone la generación de una aplicación en ArcGIS Online, donde por medio
 de un enlace público, ciertos grupos específicos de la población costarricense, sean capaz de recolectar información ya sea antes o durante estos sucesos, y se pueda generar una base de datos, del cual, las institución de emergencias como la   <a href="https://www.cne.go.cr/">Comision Nacional de Prevencion de Riesgo y Atencion de Emergencias (CNE)</a> o los Comites de Emergencias de la Municipalidades como el 
 <a href="https://www.belen.go.cr/web/guest/comite-municipal-de-emergencia"> Comite de Emergencias de la Municipalidad de Belen</a>, puedan tener un monitoreo de cuales zonas son más vulnerables y cuales ocupan de un auxilio de diferente índole, o bien que instituciones del gobierno sepan dónde se podría correr un riesgo y sean capaces de tomar una decisión antes de que ocurra una catástrofe.
 
-<p style="text-align: center;">
-<img src="1.jpeg" width="300">
+ <div align="center">
+  <h1><p style="text-align: center;">
+<img src="1.jpeg" width="300"></h1>
+</div> 
 
-##### <p style="text-align: center;"> *Puente en Belén, fuente desconocida, 2023*
+<div align="center">
+  <h5>Puente en Belén, fuente desconocida, 2023</h5> 
+</div> 
 
 
 
@@ -73,7 +83,12 @@ diferencia que se lleguen a encontrar.
 <p style="text-align: justify;">
 Se espera que las diferentes instituciones del pais ya sea nacionales o privadas puedan participar en la recoleccion de informacion, y que pueda utilizarse como insumo en las tomas de desiciones para mejorar la calidad de vida de las personas.
 
-<p style="text-align: center;">
-<img src="2.jpeg" width="450">
+ <div align="center">
+  <h1><p style="text-align: center;">
+<img src="2.jpeg" width="450"></h1>
+</div> 
 
-##### <p style="text-align: center;"> *Inundación en Agua Zarcas. Jara,A. 2023*
+ <div align="center">
+  <h5>Inundación en Agua Zarcas. Jara,A. 2023</h5>
+</div> 
+
