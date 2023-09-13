@@ -11,7 +11,6 @@
 ####  *Programacion en aplicaciones SIG. Tarea 1*<br>*Elaborado por Samanta Solano H.*
 
 ## **Introducción**
-<p style="text-align: justify;">
 Una de las problemáticas que tienen los costarricenses en la época de invierno, son los
 desbordamientos de ríos generados por diferentes situaciones, desde acumulación de
 sedimentos, incluyendo contaminación, o hasta un proceso natural de caída de árboles, o
@@ -36,7 +35,7 @@ de un enlace público, ciertos grupos específicos de la población costarricens
 
 ## **Metodología**
 
-<p style="text-align: justify;">
+
 Este proyecto se dividirá en 4 fases importantes: investigación, la aplicación, las
 capacitaciones de divulgación y el análisis de los datos de la información recopilada, con el
 fin de establecer parámetros de mejora en todo el proyecto. La idea principal de estas fases
@@ -46,7 +45,7 @@ puede ocurrir y beneficiar al usuario.
 
 ### 1. Investigación.  
 
-<p style="text-align: justify;">
+
 A partir de las preguntas de investigación, se vio necesario la búsqueda de información
 inicial, sobre instituciones que atienden situaciones de riesgo del tipo natural o bien del
 antropológico, y para este caso la CNE es la que se escogió como institución principal, ya
@@ -58,7 +57,7 @@ inundaciones.
 
 ### 2. Aplicación
 
-<p style="text-align: justify;">
+
 Se realizra por medio de ArcGis Online, una herrameta, que por medio de una encuesta sea capaz de obtener informacion y desplegar los resultados en fuerma de mapas. De manera general, algunas de las preguntas que se realizaran son como las siguientes:
 
 1. Ubicacion 
@@ -72,13 +71,13 @@ Se realizra por medio de ArcGis Online, una herrameta, que por medio de una encu
 
 ### 3. Capacitaciones
 
-<p style="text-align: justify;">
+
 Se trabajara con los grupos de estudio con el fin de que entiendan la importancia de este proyecto y como puede afectarnos de manera positiva la recoleccion de esta informacion.
 
 
 ### 4. Análisis
 
-<p style="text-align: justify;">
+
 Una vez recolectado los datos se procede a analizar las posibles zonas vulnerables que
 puedan llegar a afectar a la zona de estudio, y para ello es necesario, haber investigado ya
 sea por medio de la municipalidad de la zona de estudio o instituciones que lleven un
