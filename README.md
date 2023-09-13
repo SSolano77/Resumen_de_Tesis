@@ -24,12 +24,10 @@ de un enlace público, ciertos grupos específicos de la población costarricens
 <img src="1.jpeg" width="300">
 </div> 
 
-<div align="center">
-  <h5>Puente en Belén, fuente desconocida, 2023</h5> 
-</div> 
+Puente en Belén, fuente desconocida, 2023
 
 
-<br>
+
 
 
 ## **Metodología**
