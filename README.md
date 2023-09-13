@@ -22,6 +22,9 @@ de un enlace público, ciertos grupos específicos de la población costarricens
 
 <img src="1.jpeg" width="300">
 
+
+</dr>
+
 ###### Puente en Belén, fuente desconocida, 2023
 
 
