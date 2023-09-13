@@ -26,11 +26,8 @@ de un enlace público, ciertos grupos específicos de la población costarricens
 
 ##### Puente en Belén, fuente desconocida, 2023
 
-<br>
-
 <img src="1.jpeg" width="300">
 
-<br>
 
 
 ## **Metodología**
@@ -87,14 +84,12 @@ diferencia que se lleguen a encontrar.
 
 
 ## **Posible Conclusión**
-<p style="text-align: justify;">
+
+
 Se espera que las diferentes instituciones del pais ya sea nacionales o privadas puedan participar en la recoleccion de informacion, y que pueda utilizarse como insumo en las tomas de desiciones para mejorar la calidad de vida de las personas.
 
- <div align="center">
-  <h5><img src="2.jpeg" width="450"></h5>
-</div> 
 
- <div align="center">
-  <h5>Inundación en Agua Zarcas. Jara,A. 2023</h5>
-</div> 
+ <img src="2.jpeg" width="450">
 
+
+Inundación en Agua Zarcas. Jara,A. 2023
