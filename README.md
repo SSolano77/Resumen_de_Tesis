@@ -28,9 +28,12 @@ de un enlace público, ciertos grupos específicos de la población costarricens
   <h5>Puente en Belén, fuente desconocida, 2023</h5> 
 </div> 
 
+
 <br>
 
+
 ## **Metodología**
+
 <p style="text-align: justify;">
 Este proyecto se dividirá en 4 fases importantes: investigación, la aplicación, las
 capacitaciones de divulgación y el análisis de los datos de la información recopilada, con el
