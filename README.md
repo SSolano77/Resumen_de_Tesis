@@ -19,12 +19,15 @@ desprendimientos de laderas, entre otras situaciones. Lo anterior se ha tratado 
 Se propone la generación de una aplicación en ArcGIS Online, donde por medio
 de un enlace público, ciertos grupos específicos de la población costarricense, sean capaz de recolectar información ya sea antes o durante estos sucesos, y se pueda generar una base de datos, del cual, las institución de emergencias como la   <a href="https://www.cne.go.cr/">Comision Nacional de Prevencion de Riesgo y Atencion de Emergencias (CNE)</a> o los Comites de Emergencias de la Municipalidades como el 
 <a href="https://www.belen.go.cr/web/guest/comite-municipal-de-emergencia"> Comite de Emergencias de la Municipalidad de Belen</a>, puedan tener un monitoreo de cuales zonas son más vulnerables y cuales ocupan de un auxilio de diferente índole, o bien que instituciones del gobierno sepan dónde se podría correr un riesgo y sean capaces de tomar una decisión antes de que ocurra una catástrofe.
+
+
 <br>
 Puente en Belén, fuente desconocida, 2023
 <br>
 <img src="1.jpeg" width="300">
 
 <br>
+
 
 ## **Metodología**
 
