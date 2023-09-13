@@ -28,7 +28,7 @@ de un enlace público, ciertos grupos específicos de la población costarricens
   <h5>Puente en Belén, fuente desconocida, 2023</h5> 
 </div> 
 
-
+<br>
 
 ## **Metodología**
 <p style="text-align: justify;">
@@ -37,6 +37,7 @@ capacitaciones de divulgación y el análisis de los datos de la información re
 fin de establecer parámetros de mejora en todo el proyecto. La idea principal de estas fases
 es buscar siempre el bien común de la población, estimando diferentes escenarios de lo que
 puede ocurrir y beneficiar al usuario.
+
 
 ### 1. Investigación.  
 
@@ -48,6 +49,7 @@ que entre sus objetivos es generar planes de riesgos que beneficies a la poblaci
 situaciones de riesgo, para eso se coordinó una reunión con el área de TI, con el fin de
 obtener información actualizada de la recolección y manejo de datos de riesgo ante
 inundaciones.
+
 
 ### 2. Aplicación
 
@@ -68,6 +70,7 @@ Se realizra por medio de ArcGis Online, una herrameta, que por medio de una encu
 <p style="text-align: justify;">
 Se trabajara con los grupos de estudio con el fin de que entiendan la importancia de este proyecto y como puede afectarnos de manera positiva la recoleccion de esta informacion.
 
+
 ### 4. Análisis
 
 <p style="text-align: justify;">
@@ -77,6 +80,7 @@ sea por medio de la municipalidad de la zona de estudio o instituciones que llev
 registro sobre las zonas vulnerables y generar una comparación con el fin de demostrar la
 funcionalidad de la aplicación, y así mismo demostrar por medio de mapas de calor las
 diferencia que se lleguen a encontrar.
+
 
 ## **Posible Conclusión**
 <p style="text-align: justify;">
