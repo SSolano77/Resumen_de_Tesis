@@ -11,14 +11,16 @@
 ####  *Programacion en aplicaciones SIG. Tarea 1*<br>*Elaborado por Samanta Solano H.*
 
 ## **Introducción**
-<<p style="text-align: justify;">
+<p style="text-align: justify;">
 Una de las problemáticas que tienen los costarricenses en la época de invierno, son los
 desbordamientos de ríos generados por diferentes situaciones, desde acumulación de
 sedimentos, incluyendo contaminación, o hasta un proceso natural de caída de árboles, o
-desprendimientos de laderas, entre otras situaciones. Lo anterior se ha tratado de solventar con diferentes talleres de cómo actuar ante una situación de riesgo, o incluso, con la recolección de información después de una inundación, sin embargo, tinene su nivel de dificultad obener una manera de anticiparnos ante una emergencia de este tipo. <br>
+desprendimientos de laderas, entre otras situaciones. Lo anterior se ha tratado de solventar con diferentes talleres de cómo actuar ante una situación de riesgo, o incluso, con la recolección de información después de una inundación, sin embargo, tinene su nivel de dificultad obener una manera de anticiparnos ante una emergencia de este tipo. 
+
+
 Se propone la generación de una aplicación en ArcGIS Online, donde por medio
 de un enlace público, ciertos grupos específicos de la población costarricense, sean capaz de recolectar información ya sea antes o durante estos sucesos, y se pueda generar una base de datos, del cual, las institución de emergencias como la   <a href="https://www.cne.go.cr/">Comision Nacional de Prevencion de Riesgo y Atencion de Emergencias (CNE)</a> o los Comites de Emergencias de la Municipalidades como el 
-<a href="https://www.belen.go.cr/web/guest/comite-municipal-de-emergencia"> Comite de Emergencias de la Municipalidad de Belen</a>, puedan tener un monitoreo de cuales zonas son más vulnerables y cuales ocupan de un auxilio de diferente índole, o bien que instituciones del gobierno sepan dónde se podría correr un riesgo y sean capaces de tomar una decisión antes de que ocurra una catástrofe.>
+<a href="https://www.belen.go.cr/web/guest/comite-municipal-de-emergencia"> Comite de Emergencias de la Municipalidad de Belen</a>, puedan tener un monitoreo de cuales zonas son más vulnerables y cuales ocupan de un auxilio de diferente índole, o bien que instituciones del gobierno sepan dónde se podría correr un riesgo y sean capaces de tomar una decisión antes de que ocurra una catástrofe.
 
 
 <br>
